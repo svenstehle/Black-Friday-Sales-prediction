@@ -1,5 +1,5 @@
 # AnalyticsVidhya's Black Friday Data Hack
-## [Practice-Problem-Black-Friday](https://datahack.analyticsvidhya.com/contest/black-friday/)
+[Practice-Problem-Black-Friday](https://datahack.analyticsvidhya.com/contest/black-friday/)
 
 name on Leaderboard: 	**intradeep**
 
