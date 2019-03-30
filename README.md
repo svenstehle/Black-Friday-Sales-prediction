@@ -11,6 +11,10 @@ Now it's a practice problem.
 * The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
 * Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
+### Install and use:
+* Clone repo
+* Follow the notebook file
+
 ### Approach:
 * I spent some time doing EDA, see the code file for that. Commented that part out.
 * Invested some time encoding the variable columns the right way. 
@@ -28,6 +32,11 @@ Now it's a practice problem.
 * Employ a neural network
 * Explore GLM more and possibly eliminate some (dummy) variables 
 
-### Thoughts:
-All in all this dataset was a huge challenge for me because of the sheer size and time it took to try out different approaches and compute results. I had a lot of fun and learned a lot about interaction terms, even though they were not very useful in this case, and xgb parameters and tuning.
+### Thoughts and lessons learned:
+All in all this dataset was a huge challenge for me because of the sheer size and time it took to try out different approaches and compute results. I had a lot of fun and learned a lot about 
+* interaction terms (even though they were not very useful in this case)
+* xgb algorithm, parameters and tuning (sklearn wrapper and also native API)
+* effective cross validation
+* how to make our algorithm aware of differences in train and test data
+
 I have a lot of respect for the ladies and gents that managed to achieve great RMSE results in the initial hackathon during just a few hours. I am curious to see what the best teams did and to learn from their approaches.
