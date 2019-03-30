@@ -14,6 +14,7 @@ Now it's a practice problem.
 ### Install and use:
 * Clone repo
 * Follow the notebook file
+* Change relevant system paths on your system to point to the correct location of the data files, e.g.: `"D:/Laptop Transfer/Udemy/datasets/black friday/data/test.csv"` needs to be changed appropriately
 
 ### Approach:
 * I spent some time doing EDA, see the code file for that. Commented that part out.
